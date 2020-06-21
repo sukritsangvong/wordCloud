@@ -1,0 +1,1 @@
+A lab assistant helped us when we ran into html_template_replaceAll_group1 error. He helped us figure out that we had to also remove $ from the text to make it works.
